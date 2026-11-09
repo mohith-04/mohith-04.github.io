@@ -22,7 +22,7 @@ All text, projects, education and links live in `src/data.js`.
 ### GitHub Pages (automatic)
 
 Every push to `main` builds and publishes the site via `.github/workflows/deploy.yml`.
-Live URL: https://mohith-04.github.io/Portfolio/
+Live URL: https://mohith-04.github.io
 
 One-time setup: on GitHub open **Settings → Pages** and set **Source** to **GitHub Actions**.
 

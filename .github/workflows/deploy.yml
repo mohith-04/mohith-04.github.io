@@ -26,8 +26,8 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          # Site is served at https://mohith-04.github.io/Portfolio/
-          BASE_PATH: /${{ github.event.repository.name }}/
+          # User site (repo mohith-04.github.io) is served from the root
+          BASE_PATH: /
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
