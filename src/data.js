@@ -107,7 +107,7 @@ export const projects = [
 ]
 
 export const moreProjects = [
-  { title: 'Movie Playlist', desc: 'React app for curating movie lists', github: 'https://github.com/mohith-04/Movie-playlist', live: 'https://movie-playlist-eta.vercel.app' },
+  { title: 'Movie Playlist', desc: 'React app for curating movie lists', github: 'https://github.com/mohith-04/Movie-playlist' },
   { title: 'AI-Learning', desc: 'Notebooks and ML experiments from my learning journey', github: 'https://github.com/mohith-04/AI-Learning' },
 ]
 
